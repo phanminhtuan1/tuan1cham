@@ -38,6 +38,8 @@ a:active {
 }
 th, td{
 	border: 1px double black;
+	font-size: 50px;
+	font-family:Times New Roman;
 }
 th{
 	background-color: IndianRed;
