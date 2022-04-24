@@ -1,0 +1,38 @@
+body{
+    background-image:url('img/nen.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:  100% 100%;
+}
+h1{
+  color: red;
+}
+.alo{
+    background-color: aqua;
+    padding: 15px ;
+    margin: 2px;
+
+}
+  a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
